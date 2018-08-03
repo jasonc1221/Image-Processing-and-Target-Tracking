@@ -1,0 +1,7 @@
+﻿  Skipping... (no relevant changes detected)
+  stdafx.cpp
+  UUVControl.cpp
+c:\users\jason chang\documents\visual studio 2017\projects\uuvcontrol\uuvcontrol\uuvcontrol.cpp(113): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\jason chang\documents\visual studio 2017\projects\uuvcontrol\uuvcontrol\uuvcontrol.cpp(117): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\jason chang\documents\visual studio 2017\projects\uuvcontrol\uuvcontrol\uuvcontrol.cpp(118): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  UUVControl.vcxproj -> C:\Users\Jason Chang\Documents\Visual Studio 2017\Projects\UUVControl\x64\Debug\UUVControl.exe
